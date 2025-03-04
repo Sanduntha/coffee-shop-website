@@ -745,7 +745,7 @@ img {
 
 /* Centered Image */
 .contact__images {
-  flex: 0.5; /* Keep image centered */
+  flex: 0.5; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -789,7 +789,7 @@ img {
 
 
 /*=============== FOOTER ===============*/
-/*=============== FOOTER ===============*/
+
 .footer {
   background-color: var(--body-first-color);
   padding-block: 4rem 2rem;
